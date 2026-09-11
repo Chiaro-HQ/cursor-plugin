@@ -27,11 +27,11 @@ Then ask your AI: "Start my SOC 2 readiness check with Chiaro."
 
 ## Data and privacy
 
-- The plugin connects to one endpoint, `https://mcp.chiarohq.com/mcp`.
-- It contains no credentials. Your sign-in is held by the app you connect from.
-- Chiaro never logs in to your systems and never receives your passwords or keys. Your AI runs any
-  commands on your side, with your approval, and evidence reaches Chiaro only when you approve
-  submitting or uploading it.
+- The plugin connects to one endpoint, `https://mcp.chiarohq.com/mcp`, and contains no credentials.
+  Your sign-in is held by the app you connect from.
+- Chiaro's MCP server does not log in to your systems and never needs your passwords or keys. Your
+  AI runs any commands on your side, with your approval, and evidence reaches Chiaro only when you
+  approve submitting or uploading it.
 - Privacy policy: https://chiarohq.com/privacy
 
 ## Support
