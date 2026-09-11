@@ -1,0 +1,33 @@
+{
+  "name": "chiaro",
+  "displayName": "Chiaro",
+  "version": "1.0.0",
+  "description": "SOC 2 for solo founders, done in your AI tool. Scope your SOC 2, collect evidence from the tools you already use, fix what is missing, and move to the audit when you are ready.",
+  "author": {
+    "name": "Chiaro",
+    "email": "hello@chiarohq.com"
+  },
+  "homepage": "https://chiarohq.com",
+  "repository": "https://github.com/Chiaro-HQ/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "chiaro",
+    "soc 2",
+    "soc2",
+    "soc 2 readiness",
+    "soc 2 audit",
+    "compliance",
+    "security questionnaire",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "soc2",
+    "compliance",
+    "security",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chiaro": {
+      "type": "http",
+      "url": "https://mcp.chiarohq.com/mcp"
+    }
+  }
+}
