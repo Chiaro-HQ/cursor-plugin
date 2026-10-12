@@ -15,8 +15,8 @@ when you are ready.
 
 ## Install
 
-**Cursor.** Open the Marketplace, search for Chiaro, and add it. When the Chiaro server asks you to
-sign in, finish in your browser.
+**Cursor.** Find Chiaro in the Cursor directory (cursor.directory) and add it from there. When the
+Chiaro server asks you to sign in, finish in your browser.
 
 **Grok Bot.** Open Settings, then Plugins. Search for Chiaro, choose Add, and finish signing in with
 your browser.
